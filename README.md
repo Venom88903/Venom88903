@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Venom88903&label=Profile%20views&color=0e75b6&style=flat" alt="Venom88903" /> </p>
 
-- 🌱 I’m currently learning **React, DRF, AWS**
+- 🌱 I’m currently learning **React, DRF, NextJs and Typesceipt**
 
 - 💬 Ask me about **React Native, Reacts**
 
