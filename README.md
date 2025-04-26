@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Venom88903&label=Profile%20views&color=0e75b6&style=flat" alt="Venom88903" /> </p>
 
-- 🌱 I’m currently working as a **React Native Developer At Sridix Technology**
+- 🌱 I’m currently working as a **React Native Developer At Ubix Technology**
 
-- 🌱 I’m currently learning **React, DRF, NextJs and Typesceipt**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **React Native, Reacts**
+- 💬 Ask me about **React Native, ReactJs, Nodejs, MObile Development**
 
 - 📫 How to reach me **Chaudharymukesh321@gmail.com**
 
