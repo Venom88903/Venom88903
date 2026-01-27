@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Venom88903&label=Profile%20views&color=0e75b6&style=flat" alt="Venom88903" /> </p>
 
-- 🌱 I’m currently working as a **React Native Developer At Ubix Technology**
+- 🌱 I’m currently working as a **Junior Software Developer at Birdvision pvt ltd**
 
 - 🌱 I’m currently learning **MERN STACK**
 
