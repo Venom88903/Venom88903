@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS Services & Database**
 
-- 💬 Ask me about **React Native, ReactJs, Nodejs, MObile Development**
+- 💬 Ask me about **React Native, ReactJs, NextJs, Nodejs, MObile Development, Web Developer**
 
 - 📫 How to reach me **Chaudharymukesh321@gmail.com**
 
