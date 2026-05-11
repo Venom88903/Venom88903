@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working as a **Junior Software Developer at Birdvision pvt ltd**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **AWS Services & Database**
 
 - 💬 Ask me about **React Native, ReactJs, Nodejs, MObile Development**
 
